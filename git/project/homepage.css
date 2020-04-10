@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>bootstrap</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+.nav-link:hover{
+
+	             color:red;
+               }
+           .img{
+
+                  background-image: url("bank2.jpg");
+ 
+               }    
+    </style>
+}
+</head>
+<body class="container"	>
+<div class="container-sm border my-3 bg-dark text-blue">
+  <h1>My First Bootstrap Page</h1>
+  <p>This is some text.</p>
+</div>
+div class="row">
+    <div class="col-sm-3" style="background-color:lavender;">.col</div>
+    <div class="col-sm-6" style="background-color:orange;">.col</div>
+    <div class="col-sm-3" style="background-color:lavender;">.col</div>
+  </div>
+</div>
+<p class="text-success">
+harpreet singh 	
+</p>
+<table class=" table table-bordered table-striped table-hover ">
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+   <tr>
+  	<td class="text-danger" style="background-color: orange;">HARPREET SINGH </td>
+  	<td>MCA</td>
+  </tr>
+ 	<tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+  <tr>
+  	<th>NAME</th>
+  	<th>CLASS</th>
+  </tr>
+</table>
+<table class="table-hover">
+	<tr>
+         <td><img src="C:\xampp\htdocs\img\img1.jpg"></td>
+         <td><img src="C:\xampp\htdocs\img\img1.jpg"></td>
+         <td><img src="C:\xampp\htdocs\img\img1.jpg"></td>
+    
+    </tr>
+    <tr>
+         <td><img src="C:\xampp\htdocs\img\img1.jpg"></td>
+         <td><img src="C:\xampp\htdocs\img\img1.jpg"></td>
+         <td><img src="C:\xampp\htdocs\img\img1.jpg"></td>
+    
+    </tr>    
+</table>
+<div class="jumbotron">
+	
+	hii there is good news for all aspirant who are preparing for jee that your exam is just appoaching	
+</div>
+<button type="button" class=" btn btn-outline-primary">basic</button>
+<button type="button" class=" btn btn-waring">basic</button>
+<button type="button" class=" btn btn-danger">basic</button>
+<button type="button" class=" btn btn-info">basic</button>
+<button type="button" class=" btn btn-success">basic</button>
+<button type="button" class=" btn btn-primary">basic</button>
+<button type="button" class=" btn btn-primary">basic</button>
+<div class="spinner-border">
+	
+</div>
+<div class="btn-group">
+	<button type="button"class="btn btn-primary">SAMSUNG
+	<button type="button"class="btn btn-primary">APPLE
+	<button type="button"class="btn btn-primary">NOKIA
+	<button type="button"class="btn btn-primary">MI
+		
+	</button>
+	
+</div>
+<img src="c:xampp\htdocs\img\bank1.png">
+ <img src="C:\xampp\htdocs\img\img1.jpg">
+ <div class="card" style="max-width: 320px;">
+     <div class="card-header text-center"><h3>Navigation</h3></div>
+          <div class="card-block">
+               <ul class="nav navbar-nav" style="font-size: 1.50em;">
+                   <li><a href="#" class="nav-link">Home</a></li>
+                    <li><a href="#" class="nav-link">Documents</a></li>
+                    <li><a href="#" class="nav-link">Videos</a></li>
+                    <li><a href="#" class="nav-link">Gallery</a></li>
+                    <li><a href="#" class="nav-link">Download</a></li>
+                </ul>
+           </div>                   
+</div>
+<div class="img">
+	fghjhgfd
+
+</div>
+</body>
+</html>
